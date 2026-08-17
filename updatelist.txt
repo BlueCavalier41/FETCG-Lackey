@@ -17,7 +17,7 @@ images/backgrounds/FETCGGreen.png	https://raw.githubusercontent.com/BlueCavalier
 images/zonebackgrounds/DeckArea.png	https://dl.dropboxusercontent.com/s/1a4rjwwdz1ptqwj/DeckArea.png	-30452
 images/zonebackgrounds/DeckArea2.png	https://dl.dropboxusercontent.com/s/o771qh06yqo0rbd/DeckArea2.png	-143233
 images/zonebackgrounds/DeckArea3.png	https://dl.dropboxusercontent.com/s/zg6qat3bybk2v10/DeckArea3.png	-132961
-CardImageURLs:	
+CardURLFiles:	
 CardImageURLs1.txt
 CardImageURLs2.txt
 CardImageURLs3.txt
