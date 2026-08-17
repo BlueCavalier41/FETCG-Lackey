@@ -1,4 +1,16 @@
 <formatdefinitions>
+<format><label>Unlimited</label>
+<set>S1</set>
+<set>S2</set>
+<set>S3</set>
+<set>S4</set>
+<set>AN</set>
+<set>P</set>
+<set>PR</set>
+<set>S5</set>
+<set>S6</set>
+<set>P</set>
+</format>
 <format><label>Judgral</label>
 <set>S1</set>
 <set>S2</set>
@@ -12,5 +24,18 @@
 <set>S5</set>
 <set>S6</set>
 <set>P</set>
+</format>
+<format><label>Fire Revolution</label>
+<set>R1</set>
+<set>R2</set>
+<set>R3</set>
+<set>RS</set>
+<set>RA</set>
+<set>R4</set>
+<set>RSP</set>
+<set>R5</set>
+<set>R6</set>
+<set>RA2</set>
+<set>RP</set>
 </format>
 </formatdefinitions>
