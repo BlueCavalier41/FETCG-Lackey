@@ -1,22 +1,22 @@
 FE_TCG	08-16-26
-plugins/FE_TCG/version.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/version.txt	16296782
-plugins/FE_TCG/formats.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/formats.txt	53370
-plugins/FE_TCG/plugininfo.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/plugininfo.txt	193077
-plugins/FE_TCG/uninstall.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/uninstall.txt	13485
-plugins/FE_TCG/CardImageURLs1.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/CardImageURLs1.txt	8738481
-plugins/FE_TCG/CardImageURLs2.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/CardImageURLs2.txt	9636
-plugins/FE_TCG/defaultchat.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/defaultchat.txt	15600
-plugins/FE_TCG/sets/cardback.jpg	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/cardback.jpg	-28680
-plugins/FE_TCG/sets/cardata.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/cardata.txt	31140218
-plugins/FE_TCG/sets/fire_revolution_cards.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/fire_revolution_cards.txt	23250873
-plugins/FE_TCG/sets/Token.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/Token.txt	36637
-plugins/FE_TCG/saved/Start.txt	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/Start.txt	35611
-images/backgrounds/FETCGBrown.png	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/FETCGBrown.png	-1190956
-images/backgrounds/FETCGGreen.png	https://github.com/BlueCavalier41/FETCG-Lackey/blob/main/FETCGGreen.png	-1017443
+plugins/FE_TCG/version.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/version.txt	16296782
+plugins/FE_TCG/formats.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/formats.txt	53370
+plugins/FE_TCG/plugininfo.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/plugininfo.txt	193077
+plugins/FE_TCG/uninstall.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/uninstall.txt	13485
+plugins/FE_TCG/CardImageURLs1.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/CardImageURLs1.txt	8738481
+plugins/FE_TCG/CardImageURLs2.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/CardImageURLs2.txt	9636
+plugins/FE_TCG/defaultchat.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/defaultchat.txt	15600
+plugins/FE_TCG/sets/cardback.jpg	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/cardback.jpg	-28680
+plugins/FE_TCG/sets/cardata.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/cardata.txt	31140218
+plugins/FE_TCG/sets/fire_revolution_cards.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/fire_revolution_cards.txt	23250873
+plugins/FE_TCG/sets/Token.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/Token.txt	36637
+plugins/FE_TCG/saved/Start.txt	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/Start.txt	35611
+images/backgrounds/FETCGBrown.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/FETCGBrown.png	-1190956
+images/backgrounds/FETCGGreen.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/blob/main/FETCGGreen.png	-1017443
 images/zonebackgrounds/DeckArea.png	https://dl.dropboxusercontent.com/s/1a4rjwwdz1ptqwj/DeckArea.png	-30452
 images/zonebackgrounds/DeckArea2.png	https://dl.dropboxusercontent.com/s/o771qh06yqo0rbd/DeckArea2.png	-143233
 images/zonebackgrounds/DeckArea3.png	https://dl.dropboxusercontent.com/s/zg6qat3bybk2v10/DeckArea3.png	-132961
-CardURLFiles:	
+CardImageURLs:	
 CardImageURLs1.txt
 CardImageURLs2.txt
 
