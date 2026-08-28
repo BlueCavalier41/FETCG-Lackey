@@ -679,6 +679,7 @@ RP/RP-143.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main
 RP/RP-144.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main/RP/RP-144.png
 RP/RP-145.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main/RP/RP-145.png
 RP/RP-146.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main/RP/RP-146.png
+RP/RP-148.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main/RP/RP-148.png
 RP/RP-149.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main/RP/RP-149.png
 RP/RP-151.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main/RP/RP-151.png
 RP/RP-152.png	https://raw.githubusercontent.com/BlueCavalier41/FETCG-Lackey/main/RP/RP-152.png
